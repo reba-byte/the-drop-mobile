@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "the-drop-mobile",
+    "slug": "the-drop-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "thedropmobile",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.thedrop.mobile"
+    },
+    "android": {
+      "package": "com.thedrop.mobile"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a3ea4261-1ea8-47d5-b0eb-7efe1e91a901"
+      }
+    },
+    "owner": "reba1776"
+  }
+}
